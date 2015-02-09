@@ -1,0 +1,16 @@
+{
+  "name": "wdctravel",
+  "version": "0.1.0",
+  "description": "test watson connectivity",
+  "main": "app.js",
+  "scripts": {
+   "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Madison",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^2.8.5",
+    "watson-developer-cloud-alpha": "^0.9.14"
+  }
+}
